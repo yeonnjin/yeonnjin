@@ -7,7 +7,7 @@ Unity 멀티플레이 팀 프로젝트와 DirectX11 자체 엔진 개인 프로�
 
 ---
 
-## 🔧 Technical Skills
+## 🔧 Tech Stack
 
 ### Engine / Language
 - Unity / C#
