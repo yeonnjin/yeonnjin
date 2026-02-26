@@ -11,7 +11,7 @@ Unity 멀티플레이 팀 프로젝트와 DirectX11 자체 엔진 개인 프로�
 
 ### Engine / Language
 - Unity / C#
-- C++14 / DirectX11 / HLSL
+- DirectX9,11 / C++ / HLSL
 
 ### Gameplay Architecture
 - FSM 기반 캐릭터 구조 설계
