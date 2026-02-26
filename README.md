@@ -1,4 +1,4 @@
-# 👋 Junior Game Client Developer
+# 👋 Junior Game Client Programmer
 
 게임 클라이언트 프로그래머 지망생입니다.  
 Unity 멀티플레이 팀 프로젝트와 DirectX11 자체 엔진 개인 프로젝트를 통해  
